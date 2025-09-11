@@ -4,6 +4,7 @@
 
     "commitMessagePrefix": "NO-ISSUE: ",
     "labels": ["lgtm", "approved"],
+    "baseBranchPatterns": ["master"],
 
     "prHourlyLimit": 0,
     "prConcurrentLimit": 0,
